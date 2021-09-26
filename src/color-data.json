@@ -1,5 +1,5 @@
 
-const colorData = [
+ [
     {
         "id":1,
         "title":"ocean at dusk",
@@ -23,4 +23,3 @@ const colorData = [
     }
 ]
 
-export default colorData;
