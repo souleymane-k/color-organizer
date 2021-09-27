@@ -9,4 +9,4 @@ const Star = ({selected=false, onSelect = f=>f}) => {
     )
 }
 
-export default Star
+export default Star;
