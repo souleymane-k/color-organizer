@@ -1,10 +1,10 @@
 import React from 'react';
 import Color from "./Color";
-import {useColors} from './color-hooks'
+import {useColors} from './color-hooks';
 
 
 function ColorList() {
-    
+
     const {colors} = useColors();
 
     if(!colors.length) return <div> No Color Listed. (Add Color)</div>
